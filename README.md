@@ -100,7 +100,7 @@
       <h2 class="text-center mb-4">📖 About Me</h2>
       <div class="row">
         <div class="col-md-3 text-center">
-          <span class="flower"></span>
+          <span class="flower">🌸</span>
         </div>
         <div class="col-md-6">
           <p>Hi! My name is Micole Dave Lanciola. I live in Makati City and I'm currently a Senior High School student at Asia Pacific College. I'm passionate about learning and always looking for opportunities to grow both personally and academically. 🚀</p>
@@ -115,7 +115,7 @@
   <!-- Row 5: Footer -->
   <footer class="text-white text-center py-3">
     <div class="container">
-      <p>📧 Contact: mlanciola@student.apc.edu.ph| &copy; 2025 | Meeage me on social media 🌟</p>
+      <p>📧 Contact: mlanciola@student.apc.edu.ph| &copy; 2025 | Message me on social media 🌟</p>
     </div>
   </footer>
 
