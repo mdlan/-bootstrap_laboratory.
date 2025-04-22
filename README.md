@@ -115,7 +115,7 @@
   <!-- Row 5: Footer -->
   <footer class="text-white text-center py-3">
     <div class="container">
-      <p>📧 Contact: mlanciola@student.apc.edu.ph| &copy; 2025 | Follow me on social media 🌟</p>
+      <p>📧 Contact: mlanciola@student.apc.edu.ph| &copy; 2025 | Meeage me on social media 🌟</p>
     </div>
   </footer>
 
